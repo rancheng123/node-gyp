@@ -1,0 +1,22 @@
+{
+  "name": "gyp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rancheng123/node-gyp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rancheng123/node-gyp/issues"
+  },
+  "homepage": "https://github.com/rancheng123/node-gyp#readme",
+  "devDependencies": {
+    "node-gyp": "^6.1.0"
+  }
+}
